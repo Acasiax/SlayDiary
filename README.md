@@ -11,3 +11,4 @@ SLAY는 그동안 (모델이나,연예인 앰버서더에 비해) 비교적 덜 
 ## 폰트
 - [폰트 바꾸기](https://github.com/Acasiax/SlayDiary/blob/main/SLAY-Log/01%20폰트를%20바꿔보자.md)
 
+- 카카오 로그인 구현하기
